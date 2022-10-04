@@ -74,7 +74,7 @@ const Home: NextPage = ({ token }: HomeProps) => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <Link href='/api/auth/login'>Login PR </Link>
+          <Link href='/api/auth/login'>Login Test </Link>
         </h1>
 
         <p className={styles.description}>
